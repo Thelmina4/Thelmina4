@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Thelma, A firt year computer science student in DCU, Dublin. 
+I'm Thelma, A first year computer science student in DCU, Dublin. 
 <!--
 **Thelmina4/Thelmina4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
