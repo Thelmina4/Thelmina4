@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Thelma, A first year computer science student in DCU, Dublin. 
+I'm Thelma, A second year computer science student in DCU, Dublin. 
 <!--
 **Thelmina4/Thelmina4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...-->
 
-- 🌱 I’m currently learning Python, how to use GitHib, and how to make my own website.
+- 🌱 I’m currently learning Python, C, R, & how to use GitHub & Gitlab. I hope to add a few webpages in here too. I will be adding my completed scripts to this.
 
 Here's hoping that it all goes well. 
 
