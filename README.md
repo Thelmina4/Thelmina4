@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python, C, R, & how to use GitHub & Gitlab. I hope to add a few webpages in here too. I will be adding my completed scripts to this.
 
+- My Favourite part about computer science is all the problem solving. Give me a puzzle & I'm happy for hours.
+
 Here's hoping that it all goes well. 
 
 <!--
