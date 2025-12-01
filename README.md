@@ -10,6 +10,8 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Python, C, R, & how to use GitHub & Gitlab. I hope to add a few webpages in here. I will also be adding my completed scripts.
 
 - My Favourite part about computer science is all the problem-solving. Give me a puzzle & I'm happy for hours.
+  
+- You can reach me on LinkedIn: https://www.linkedin.com/in/thelma-clarke-42913092/ 
 
 Here's hoping that it all goes well. 
 
