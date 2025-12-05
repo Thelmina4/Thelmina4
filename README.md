@@ -5,7 +5,7 @@ I'm Thelma, A second-year computer science student at DCU, Dublin.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on a website for my fellow students in COMSCI2. It contains all our deadlines, homework & project details & any pertinent module information. It is still in its infant stage. The information is there, but the beauty is still to be added. 
+- 🔭 I’m currently working on a website for my fellow students in COMSCI2. It contains all our deadlines, homework, project details & any pertinent module information. It is still in its infant stage. The information is there, but the beauty is still to be added. 
 
 - 🌱 I’m currently learning Python, C, R, & how to use GitHub & Gitlab. I hope to add a few webpages in here. I will also be adding my completed scripts.
 
