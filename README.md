@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on a website for my fellow students in COMSCI2. It contains all our deadlines, homework, project details & any pertinent module information. It is still in its infant stage. The information is there, but the beauty is still to be added. 
 
-- 🌱 I’m currently learning Python, C, R, & how to use GitHub & Gitlab. I hope to add a few webpages in here. I will also be adding my completed scripts.
+- 🌱 I’m currently learning the programming languages Python, C, R, SQL, & Java. I'm slowly training myself on how to use GitHub & GitLab. I hope to add a few webpages in here. I will also be adding my completed scripts.
 
 - ⚡ My Favourite part about computer science is all the problem-solving. Give me a puzzle & I'm happy for hours.
   
