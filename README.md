@@ -30,4 +30,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Thelma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thelmina4&show_icons=true&theme=radial)
+![Thelma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thelmina4&show_icons=true&theme=radial)
