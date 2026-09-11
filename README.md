@@ -28,6 +28,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thelma-clarke-42913092/)
 
 ---
+<!--
 ![Thelma's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thelmina4&theme=dark)
 
 ![Thelma's Top Languages](https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Thelmina4&layout=compact)
+-->
