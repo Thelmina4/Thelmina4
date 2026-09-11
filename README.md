@@ -1,25 +1,33 @@
-## Hi there 👋
-I'm Thelma, an Upper Second Class Honours Second-Year Computer Science student at DCU, Dublin. 
-<!--
-**Thelmina4/Thelmina4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Thelma! 👋
 
-Here are some ideas to get you started: -->
+<p align="left">
+  🎓 <b>First-Class Honours 3rd-Year Computer Science Student @ DCU</b><br>
+  🧩 Passionate about problem-solving & building software solutions.
+</p>
 
-- 🔭 I’m currently working on a website for my fellow students in COMSCI2. It contains all our deadlines, homework, project details & any pertinent module information. It is still in its infant stage. The information is there, but the beauty is still to be added. 
+---
 
-- 🌱 I’m currently learning the programming languages Python, C, R, SQL, & Java. I'm slowly training myself on how to use GitHub & GitLab. I hope to add a few webpages in here. I will also be adding my completed scripts.
+### 💻 Technologies & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- ⚡ My Favourite part about computer science is all the problem-solving. Give me a puzzle & I'm happy for hours.
-  
-- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/thelma-clarke-42913092/ 
+---
 
-Here's hoping that it goes well. 
+### 🚀 What I'm Up To
+- 🔭 **Current Project:** Building a student hub platform for my **COMSCI3** classmates at DCU to aggregate deadlines, homework, projects, and module updates. *(Functional and live—currently enhancing the UI/UX!)*
+- 🌱 **Learning & Improving:** Python, C, R, SQL, and Java. Sharpening my workflow using **GitHub** & **GitLab**.
+- ⚡ **Fun Fact:** My favorite part of Computer Science is problem-solving—give me a puzzle and I'll gladly sit with it for hours!
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thelma-clarke-42913092/)
+
+---
+
+### 📊 GitHub Stats
+![Thelma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thelmina4&show_icons=true&theme=radial)
