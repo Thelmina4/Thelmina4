@@ -28,7 +28,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thelma-clarke-42913092/)
 
 ---
-<--
-### 📊 GitHub Stats
-![Thelma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thelmina4&show_icons=true&theme=radial)
--->
+<!-- Option A: GitHub Readme Streak Stats -->
+![Thelma's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thelmina4&theme=dark)
+
+<!-- Option B: GitHub Readme Stats (Anurag Hazra) without theme parameter -->
+![Thelma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thelmina4&show_icons=true)
